@@ -79,6 +79,9 @@ nav ul {
   flex-direction: row;
   flex: 1 1 20rem;
 }
+nav ul a {
+  padding: 1rem 3rem;
+}
 
 .intro {
   min-height: 90vh;
